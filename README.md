@@ -4,6 +4,8 @@
 
 🎓I'm a student.
 
-📚📖I'm interesting in Astronomy, Computer Science and Technology.
+📚📖I'm interested in Astronomy, Computer Science and Technology.
 
 💻Programming languages which I know: HTML, CSS, JavaScript, Java, C++, C#, Python, SQL.
+
+🛠📰I create Websites without using programs like WordPress or Joomla.
