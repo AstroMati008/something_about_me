@@ -8,4 +8,4 @@
 
 💻Programming languages which I know: HTML, CSS, JavaScript, Java, C++, C#, Python, SQL.
 
-🛠📰I create Websites without using programs like WordPress or Joomla.
+🛠I create Websites without using programs like WordPress or Joomla.
