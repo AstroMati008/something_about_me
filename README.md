@@ -1,5 +1,4 @@
-# Coś o mnie
-# Something about me
+# Coś o mnie / Something about me
 
 👋🏻Witam, jestem Mateusz.
 Hello there, I'm Mateusz.
