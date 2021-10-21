@@ -1,11 +1,17 @@
+# Coś o mnie
 # Something about me
 
-👋🏻Hello there, I'm Mateusz and I'm 19.
+👋🏻Witam, jestem Mateusz.
+Hello there, I'm Mateusz.
 
-🎓I'm a student.
+🎓Jestem studentem.
+I'm a student.
 
-📚📖I'm interested in Astronomy, Computer Science and Technology.
+📚📖Interesuję isę Astronomią, Informatyką i Technologią.
+I'm interested in Astronomy, Computer Science and Technology.
 
-💻Programming languages which I know: HTML, CSS, JavaScript, Java, C++, C#, Python, SQL.
+💻Języki programowania jakie znam: HTML, CSS, JavaScript, Java, C++, C#, Python, SQL.
+Programming languages which I know: HTML, CSS, JavaScript, Java, C++, C#, Python, SQL.
 
-🛠I create Websites without using programs like WordPress or Joomla.
+🛠Tworzę strony internetowe bez używania programów takich jak WordPress lub Joomla.
+I create Websites without using programs like WordPress or Joomla.
